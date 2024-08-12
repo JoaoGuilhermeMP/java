@@ -18,6 +18,8 @@ public class Main {
         System.out.println("Você tem " +age+ " anos.");
         System.out.println("Sua comida preferida é "+food);
 
+        scanner.close();
+
     }
 
 }
